@@ -9,8 +9,8 @@ Imports System.Runtime.InteropServices
 ' Review the values of the assembly attributes
 
 <Assembly: AssemblyTitle("ToolingNet DB Manager")>
-<Assembly: AssemblyDescription("")>
-<Assembly: AssemblyCompany("")>
+<Assembly: AssemblyDescription("Used to make changes to the local Database")>
+<Assembly: AssemblyCompany("Charles Machine Works")>
 <Assembly: AssemblyProduct("ToolingNet DB Manager")>
 <Assembly: AssemblyCopyright("Copyright ©  2018")>
 <Assembly: AssemblyTrademark("")>
