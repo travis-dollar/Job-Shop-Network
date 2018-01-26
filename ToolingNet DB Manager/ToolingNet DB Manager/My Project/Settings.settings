@@ -1,7 +1,18 @@
 ﻿<?xml version='1.0' encoding='utf-8'?>
-<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" UseMySettingsClassName="true">
-  <Profiles>
-    <Profile Name="(Default)" />
-  </Profiles>
-  <Settings />
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="DBDirectory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\FS1\MFG\ME_IE Group\Tooling Network\XML_Database\</Value>
+    </Setting>
+    <Setting Name="PublicLogLocation" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\FS1\MFG\ME_IE Group\Tooling Network\Logs\</Value>
+    </Setting>
+    <Setting Name="PrivateLogLocation" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\SAPWork\ToolingNet\Logs\</Value>
+    </Setting>
+    <Setting Name="PublicLoggingActive" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
 </SettingsFile>
