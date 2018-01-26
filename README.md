@@ -17,6 +17,8 @@ Unfortunately, not all users of this system are acclimated to using computers da
 
 ### To-Do List
 The following list will be maintained and updated as new issues and developments arise
-
+* Finish the XMLCreator dll
+* Code the database loading and lookup functionality
+* Begin work on network programming
 
 
